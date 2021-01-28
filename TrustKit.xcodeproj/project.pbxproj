@@ -1865,7 +1865,7 @@
 				SDKROOT = iphoneos;
 				SKIP_INSTALL = YES;
 				SUPPORTED_PLATFORMS = "iphonesimulator iphoneos";
-				VALID_ARCHS = "arm64 arm64e";
+				VALID_ARCHS = "arm64 arm64e armv7";
 			};
 			name = Debug;
 		};
@@ -1886,7 +1886,7 @@
 				SDKROOT = iphoneos;
 				SKIP_INSTALL = YES;
 				SUPPORTED_PLATFORMS = "iphonesimulator iphoneos";
-				VALID_ARCHS = "arm64 arm64e";
+				VALID_ARCHS = "arm64 arm64e armv7";
 			};
 			name = Release;
 		};
